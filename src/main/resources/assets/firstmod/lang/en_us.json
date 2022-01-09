@@ -1,5 +1,6 @@
 {
 	"item.firstmod.example_item": "Example Item",
+	"item.firstmod.glass_transformer": "Glass Transformer",
 	"itemGroup.firstmod": "Firstmod Tab",
 	"block.firstmod.example_block": "Example Block"
 }
